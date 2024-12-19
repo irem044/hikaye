@@ -9,7 +9,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           // EMSAL İREM DEMİREL
           //İREM TOPSAKAL
           //Mustafa Saput
-          //Yasin ERGÜT
+        printf("malzemeyi arap faikten aldım karabükte ikinci yükleme yapılıyordu adanaya kadarda ben kullanıyordum kamyonu..");  //Yasin ERGÜT
           //melike yilmaz
           //Ayşe Nur Karakoyunlu
           //elif zeren boyraz
