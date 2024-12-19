@@ -7,9 +7,9 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
   printf("Bu bir örnektir uygulamayızı kendi satırınıza alt satıra inmeden bu şekil yazın ");          //ÖRNEK (adın soyadın işte :d ); SOL TARAFINA YAZACAKSINIZ
           //iREM TOKTAŞ
           // EMSAL İREM DEMİREL
-          //İREM TOPSAKAL
+  printf("Birden arkalarından gelen bir ses onları durdurdu. "Kim var orada?" diye bağırdılar ama cevap alamadılar. Korkuyla birbirlerine sıkı sıkı sarıldılar.)//İREM TOPSAKAL
           //Mustafa Saput
-        printf("malzemeyi arap faikten aldım karabükte ikinci yükleme yapılıyordu adanaya kadarda ben kullanıyordum kamyonu..");  //Yasin ERGÜT
+          //Yasin ERGÜT
           //melike yilmaz
           //Ayşe Nur Karakoyunlu
           //elif zeren boyraz
