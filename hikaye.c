@@ -8,10 +8,6 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
   printf("Bir anda bir ses duyuldu.Korkar adımlarla sese doğru yönelmeye başladılar.Küçük kardeş yürüdükçe sese yaklaşıyordu.Abisi her ne kadar ona "GİTME GİTME!"diyerek uyarsa da küçük çocuk çok merak ediyordu ve gitmeye devam ediyordu.     //iREM TOKTAŞ
           // EMSAL İREM DEMİREL
           //İREM TOPSAKAL
-
-          //Mustafa Saput
-          //Yasin ERGÜT
-
           printf("Ormanda kaybolan iki kardeş kendilerine kalacak biryer bulmak için yola koyuldular..");//Mustafa Saput
         printf("malzemeyi arap faikten aldım karabükte ikinci yükleme yapılıyordu adanaya kadarda ben kullanıyordum kamyonu..");  //Yasin ERGÜT
 
