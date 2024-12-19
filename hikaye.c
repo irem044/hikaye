@@ -8,7 +8,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //iREM TOKTAŞ
           // EMSAL İREM DEMİREL
           //İREM TOPSAKAL
-          //Mustafa Saput
+          printf("Ormanda kaybolan iki kardeş kendilerine kalacak biryer bulmak için yola koyuldular..");//Mustafa Saput
           //Yasin ERGÜT
           //melike yilmaz
           //Ayşe Nur Karakoyunlu
